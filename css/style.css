@@ -288,7 +288,7 @@ nav ul li {
 	.nav {
 		padding: 1.5rem 1rem;
   }
-	.nav ul {
+	nav ul {
     position: fixed;
     background-color: var(--bg-color);
     flex-direction: column;
@@ -300,7 +300,7 @@ nav ul li {
     transition: transform 0.5s ease-in;
   }
 
-    .nav ul li {
+    nav ul li {
     margin: 8px;
   }
   .burger-menu {
